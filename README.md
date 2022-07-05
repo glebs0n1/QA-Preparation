@@ -1,6 +1,15 @@
 # QA-Preparation
 My Preparation as a Automated Test intern at BITĖ Company 
 
+<h3>You should find it interesting to:</h3>
+Execute manual and automated test cases, verify, analyze, and report results
+<br>Develop and improve automated tests
+<br>Ensure that products and services meet quality, performance, safety, and reliability standards
+<br>Verify defect fixes, improvements, and change requests
+<br>Test environment maintenance
+<br>Prepare all materials needed for testing (checklists, test data, etc.) and write documentation
+<br>Contribute to the acceptance criteria development with the team
+<br>
 <h3>You will work with:</h3>
 Functional testing
 <br>Usability testing
