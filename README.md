@@ -23,30 +23,16 @@ Good unit tests are complex to write. It can mean the test code is likely to be 
 What is API testing?
 Application programming interfaces (API) testing means checking APIs directly. An API is a feature that allows one application to interact and communicate to other applications. It determines if the APIs meet expectations for functionality,, reliability, performance, and security. This does not cover usability or UI or UX testing. API testing involves sending calls to an API, receiving an output and recording a response.
 
-API icon
+Pros  | Cons |
+------------- | ------------- |
+Verification of API functionality | /	Set up can be complex|
+Checks API integration with other applications  | /Coding knowledge required |
+Tests authentication credentials  |  |
 
-Pros
 
-Cons
-
-Verification of API functionality
-
-Set up can be complex
-
-Checks API integration with other applications
-
-Coding knowledge required
-
-Tests authentication credentials
-
- 
-
- 
-
-Pros
-
+<h4> * Pros * </h4>
 If an API is not tested properly, it may cause problems to not only the primary application but the other applications it integrates with. API testing provides a vital check to ensure this functionality works correctly.
 
-Cons
+<h4> * Cons * </h4>
 
 Setting up a testing environment for API testing can be complex. Also, a good level of coding knowledge is necessary for API test cases.
