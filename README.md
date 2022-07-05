@@ -2,7 +2,7 @@
 My Preparation as a Automated Test intern at BITĖ Company 
 
 <h3>You will work with:</h3>
-<br>Functional testing
+Functional testing
 <br>Usability testing
 <br>Integration testing
 <br>Load testing
