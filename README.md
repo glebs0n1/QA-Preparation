@@ -3,13 +3,25 @@ My Preparation as a Automated Test intern at BITĖ Company
 
 <h3>Unit Testing</h3>
 What is unit testing?
-Unit testing is testing individual units or components of an application. The aim is to ensure that each unit performs as designed. It is typically carried out by developers, rather than the quality assurance team, as it requires a detailed knowledge of the internal program design and source code.
+Unit testing is testing individual units or components of an application. The aim is to ensure that each unit performs as designed. It is typically carried out by developers, rather than the quality assurance team, as it requires a detailed knowledge of the internal program design and source code.]
+
 Pros  | Cons |
 ------------- | ------------- |
 Finds bugs early  | /Hard to write |
 Facilitates change  | /Difficult to automate |
 Simplifies integration  | /	Comprehensive version control needed |
- 
+ * Customer API
+
+Method  | Path | Explanation
+------------- | ------------- | ------------- |
+GET  | /customers | Get all customers  |
+GET  | /customers/{id} | Get customer by id |
+POST  | /customers | Create customer |
+PUT  | /customers/{id} | Update customer by id |
+POST  | /customers/{id}/accounts | Create account for customer |
+DELETE | /customers/{customerId}/accounts/{accountId} | Delete account for customer |
+DELETE | /customers/{customerId} | Delete customer by id |
+
 <h4> * Pros * </h4>
 When a failure occurs in a unit test, it’s either caused by a bug in the code or a problem with the actual unit test itself. Either way, it’s easy to pinpoint the problem and early enough in the development cycle to fix it. Unit testing ensures that the code functions properly as the code base grows. This streamlines the code to make it more readable and less complex. By verifying each unit, integration into an application is simpler.
 
