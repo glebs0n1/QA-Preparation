@@ -1,13 +1,13 @@
 # QA-Preparation
 My Preparation as a Automated Test intern at BITĖ Company 
 
-You will work with:
-Functional testing
-Usability testing
-Integration testing
-Load testing
-Regression testing
-End-to-End testing
+<h3>You will work with:</h3>
+<br>Functional testing
+<br>Usability testing
+<br>Integration testing
+<br>Load testing
+<br>Regression testing
+<br>End-to-End testing
 
 <h3>What You Will Build</h3>
 You will build a simple Spring application and test it with JUnit. You probably already know how to write and run unit tests of the individual classes in your application, so, for this guide, we will concentrate on using Spring Test and Spring Boot features to test the interactions between Spring and your code. You will start with a simple test that the application context loads successfully and continue on to test only the web layer by using Spring’s
