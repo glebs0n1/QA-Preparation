@@ -1,6 +1,17 @@
 # QA-Preparation
 My Preparation as a Automated Test intern at BITĖ Company 
 
+You will work with:
+Functional testing
+Usability testing
+Integration testing
+Load testing
+Regression testing
+End-to-End testing
+
+<h3>What You Will Build</h3>
+You will build a simple Spring application and test it with JUnit. You probably already know how to write and run unit tests of the individual classes in your application, so, for this guide, we will concentrate on using Spring Test and Spring Boot features to test the interactions between Spring and your code. You will start with a simple test that the application context loads successfully and continue on to test only the web layer by using Spring’s
+
 <h3>Unit Testing</h3>
 What is unit testing?
 Unit testing is testing individual units or components of an application. The aim is to ensure that each unit performs as designed. It is typically carried out by developers, rather than the quality assurance team, as it requires a detailed knowledge of the internal program design and source code.]
