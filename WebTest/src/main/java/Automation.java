@@ -8,7 +8,7 @@ public class Automation {
 System.setProperty("webdriver.chrome.driver","C:\\webdrivers\\chromedriver.exe");
         
         WebDriver driver = new ChromeDriver();
-        driver.get("https://istore.lt/?gclid=CjwKCAjwwo-WBhAMEiwAV4dybTu4hFMPevg4ap4F6bD51IqhYtN30GCNtbzN16JzKrWPIff-MIE1_BoCqFsQAvD_BwE");
+        driver.get("https://istore.lt");
         driver.manage().window().maximize();
         WebElement searchString = driver.findElement(By.xpath("//input[@id = 'j-search']"));
         searchString.sendKeys("Iphone");
