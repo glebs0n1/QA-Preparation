@@ -21,7 +21,6 @@ Functional testing
 <h3>Unit Testing</h3>
 What is unit testing?
 Unit testing is testing individual units or components of an application. The aim is to ensure that each unit performs as designed. It is typically carried out by developers, rather than the quality assurance team, as it requires a detailed knowledge of the internal program design and source code.]
-<br>
 Pros  | Cons |
 ------------- | ------------- |
 Finds bugs early  | /Hard to write |
