@@ -21,7 +21,7 @@ Functional testing
 <h3>Unit Testing</h3>
 What is unit testing?
 Unit testing is testing individual units or components of an application. The aim is to ensure that each unit performs as designed. It is typically carried out by developers, rather than the quality assurance team, as it requires a detailed knowledge of the internal program design and source code.]
-<be>
+<br>
 Pros  | Cons |
 ------------- | ------------- |
 Finds bugs early  | /Hard to write |
@@ -39,6 +39,7 @@ Good unit tests are complex to write. It can mean the test code is likely to be 
 
 What is API testing?
 Application programming interfaces (API) testing means checking APIs directly. An API is a feature that allows one application to interact and communicate to other applications. It determines if the APIs meet expectations for functionality,, reliability, performance, and security. This does not cover usability or UI or UX testing. API testing involves sending calls to an API, receiving an output and recording a response.
+<br>
 
 Pros  | Cons |
 ------------- | ------------- |
